@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @miguelVillegasR
-- 👀 I’m interested in development on web
-- 🌱 I’m currently learning manage servers, cloud, javascript backend
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m @mihivira
+- 👀 I’m interested in development on web and Moodle development
+- 💻 I'm working as Moodle Developer Senior, web developer ( LAMPP ) and Developer Leader
+- 🌱 I’m currently learning UX/UI, Frontend and Angular
 - 📫 How to reach me: send me a email mihivira@gmail.com
-
-<!---
-miguelVillegasR/miguelVillegasR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔗 My site is https://sdvir.com
+- 🇲🇽 I'm proudly Mexican
